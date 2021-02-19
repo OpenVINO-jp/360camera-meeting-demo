@@ -3,7 +3,6 @@ member:
   -
     EmployeeID: "12345"
     FirstName:
-#   LastName: Kofuru
     LastName: Sato
     Section: Sales Div.1
     Position: 2
@@ -11,7 +10,6 @@ member:
   -
     EmployeeID: "23456"
     FirstName:
-#   LastName: Kitajima
     LastName: Suzuki
     Section: Research
     Position: 1
@@ -19,7 +17,6 @@ member:
   -
     EmployeeID: "34567"
     FirstName:
-#   LastName: Wada
     LastName: Takahashi
     Section: Develop
     Position: 3
@@ -27,7 +24,6 @@ member:
   -
     EmployeeID: "45678"
     FirstName:
-#   LastName: Fujishima
     LastName: Tanaka
     Section: Sales Div.2
     Position: 0
